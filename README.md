@@ -1,6 +1,6 @@
-# Go redirector for Arcaflow
+# Go redirector for Arcalot
 
-This repository hosts the `go.flow.arcalot.io` redirector, which handles the Golang package paths. To create a new package, simply amend the [packages.json](packages.json) file.
+This repository hosts the `go.arcalot.io` redirector, which handles the Golang package paths. To create a new package, simply amend the [packages.json](packages.json) file.
 
 ## Developing the redirector
 
