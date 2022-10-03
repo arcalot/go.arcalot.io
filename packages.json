@@ -6,5 +6,9 @@
   "log": {
     "URL": "https://github.com/arcalot/go-log",
     "MainBranch": "main"
+  },
+  "lang": {
+    "URL": "https://github.com/arcalot/go-lang",
+    "MainBranch": "main"
   }
 }
