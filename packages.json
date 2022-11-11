@@ -10,5 +10,9 @@
   "lang": {
     "URL": "https://github.com/arcalot/go-lang",
     "MainBranch": "main"
+  },
+  "carpenter": {
+    "URL": "https://github.com/arcalot/arcaflow-plugin-image-builder",
+    "MainBranch": "main"
   }
 }
