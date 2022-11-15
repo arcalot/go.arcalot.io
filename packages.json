@@ -14,5 +14,9 @@
   "imagebuilder": {
     "URL": "https://github.com/arcalot/arcaflow-plugin-image-builder",
     "MainBranch": "main"
+  },
+  "dgraph": {
+    "URL": "https://github.com/arcalot/go-dgraph",
+    "MainBranch": "main"
   }
 }
