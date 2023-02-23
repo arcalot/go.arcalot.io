@@ -8,8 +8,8 @@
     "MainBranch": "main"
   },
   "log/v2": {
-    "URL": "https://github.com/arcalot/go-log/v2",
-    "MainBranch": "v2"
+    "URL": "https://github.com/arcalot/go-log",
+    "MainBranch": "main"
   },
   "lang": {
     "URL": "https://github.com/arcalot/go-lang",
