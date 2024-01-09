@@ -22,5 +22,9 @@
   "dgraph": {
     "URL": "https://github.com/arcalot/go-dgraph",
     "MainBranch": "main"
+  },
+  "exex": {
+    "URL": "https://github.com/arcalot/exex.git",
+    "MainBranch": "main"
   }
 }
